@@ -1,10 +1,11 @@
-# regentqc
+# Quebec Business Register
 
-regentqc is a python command line tool
+regentqc is a python command line tool to manipulate the [Quebec Business Register data](https://www.donneesquebec.ca/recherche/dataset/registre-des-entreprises)
+* Translate the list of domains in another language
 
 ## Documentation
 
-The documentation is available on the following [link]()
+The documentation is available on the following [link](https://fabquenneville.github.io/regentqc/)
 
 ## Releases
 
